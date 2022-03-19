@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm John and I am a Fullstack Developer.
+
 <!--
 **jmcudd/jmcudd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
