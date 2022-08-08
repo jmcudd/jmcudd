@@ -6,8 +6,6 @@ I'm John and I love building web applications with [svelte](https://svelte.dev/)
 - 💬 Ask me about web application development and microservice development
 - 👯 I’m looking to collaborate on web3 technologies with solid profit models
 - 🌱 I’m always learning new things about kuberentes, devops, and microservice architectures
-- ⚡ I'm interested in Options Trading and Kiteboarding in my spare time
-
 
 
 
