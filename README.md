@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-I'm John and I love building web applications with [svelte](https://svelte.dev/) and [lit](https://lit.dev/) and microservices with [hapi.js](https://hapi.dev/). I also dabble in [kubernetes](https://kubernetes.io/) and all the tools surrounding it. 
+I'm John and I love building web applications with htmx and htmz. I also dabble in [kubernetes](https://kubernetes.io/) and all the tools surrounding it. 
 
 - 💬 Ask me about web application development and microservice development
 - 👯 I’m looking to collaborate on web3 technologies with solid profit models
 - 🌱 I’m always learning new things about kuberentes, devops, and microservice architectures
 - I love HTMX
-
 
 
 <!--
