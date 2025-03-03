@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm John and I love building web applications. I also dabble in [kubernetes](https://kubernetes.io/) and all the tools surrounding it. 
+I'm John and I love building web applications. I also dabble in kubernetes and all the tools surrounding it. 
 
 - 💬 Ask me about web application development and microservice development
 - 👯 I’m looking to collaborate on web3 technologies with solid profit models
